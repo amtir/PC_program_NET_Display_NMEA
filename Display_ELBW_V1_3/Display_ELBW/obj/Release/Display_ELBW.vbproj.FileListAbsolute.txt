@@ -1,0 +1,71 @@
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Release\ResolveAssemblyReference.cache
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Release\Display_ELBW.frmDisplay.resources
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Release\Display_ELBW.Resources.resources
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Release\Display_ELBW.SplashScreen.resources
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Release\Display_ELBW.vbproj.GenerateResource.Cache
+D:\VB.NET\Display_ELBW\Display_ELBW\bin\Release\Display_ELBW.exe
+D:\VB.NET\Display_ELBW\Display_ELBW\bin\Release\Display_ELBW.pdb
+D:\VB.NET\Display_ELBW\Display_ELBW\bin\Release\Display_ELBW.xml
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Release\Display_ELBW.AboutPC_Display.resources
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Release\Display_ELBW.frmSettingsCOM.resources
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Release\Display_ELBW.frmRS232.resources
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Release\Display_ELBW.exe
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Release\Display_ELBW.xml
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Release\Display_ELBW.pdb
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Release\Display_ELBW.COM_DATA.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\bin\Release\Display_ELBW.exe
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\bin\Release\Display_ELBW.pdb
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\bin\Release\Display_ELBW.xml
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Release\ResolveAssemblyReference.cache
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Release\Display_ELBW.AboutPC_Display.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Release\Display_ELBW.frmDump.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Release\Display_ELBW.frmDisplay.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Release\Display_ELBW.frmGraphics.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Release\Display_ELBW.frmSettingsCOM.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Release\Display_ELBW.Resources.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Release\Display_ELBW.frmRS232.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Release\Display_ELBW.SplashScreen.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Release\Display_ELBW.vbproj.GenerateResource.Cache
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Release\Display_ELBW.exe
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Release\Display_ELBW.xml
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Release\Display_ELBW.pdb
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\bin\Release\Display Weather Station ELBW.exe.manifest
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\bin\Release\Display Weather Station ELBW.application
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\bin\Release\Display Weather Station ELBW.exe
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\bin\Release\Display Weather Station ELBW.pdb
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\bin\Release\Display Weather Station ELBW.xml
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Release\ResolveAssemblyReference.cache
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.AboutPC_Display.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.frmDump.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.frmDisplay.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.frmGraphics.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.frmSettingsCOM.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.Resources.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.frmRS232.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.SplashScreen.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.vbproj.GenerateResource.Cache
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display Weather Station ELBW.exe.manifest
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display Weather Station ELBW.application
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display Weather Station ELBW.exe
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display Weather Station ELBW.xml
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display Weather Station ELBW.pdb
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display Weather Station ELBW.exe
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display Weather Station ELBW.xml
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display Weather Station ELBW.pdb
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\bin\Release\Display Weather Station ELBW.exe.manifest
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\bin\Release\Display Weather Station ELBW.application
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\bin\Release\Display Weather Station ELBW.exe
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\bin\Release\Display Weather Station ELBW.pdb
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\bin\Release\Display Weather Station ELBW.xml
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.AboutPC_Display.resources
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.frmDump.resources
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.frmDisplay.resources
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.frmGraphics.resources
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.frmSettingsCOM.resources
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.Resources.resources
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.frmRS232.resources
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.SplashScreen.resources
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display_ELBW.vbproj.GenerateResource.Cache
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display Weather Station ELBW.exe.manifest
+C:\Documents and Settings\amtir\Bureau\Display_ELBW_V1_3\Display_ELBW\obj\Release\Display Weather Station ELBW.application

@@ -1,0 +1,55 @@
+C:\Documents and Settings\amtir\Local Settings\Application Data\Temporary Projects\Display_ELBW\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\amtir\Local Settings\Application Data\Temporary Projects\Display_ELBW\obj\Debug\Display_ELBW.frmgraphics.resources
+C:\Documents and Settings\amtir\Local Settings\Application Data\Temporary Projects\Display_ELBW\obj\Debug\Display_ELBW.Resources.resources
+C:\Documents and Settings\amtir\Local Settings\Application Data\Temporary Projects\Display_ELBW\obj\Debug\Display_ELBW.vbproj.GenerateResource.Cache
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Debug\ResolveAssemblyReference.cache
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Debug\Display_ELBW.Resources.resources
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Debug\Display_ELBW.vbproj.GenerateResource.Cache
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Debug\Display_ELBW.frmDisplay.resources
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Debug\Display_ELBW.SplashScreen.resources
+D:\VB.NET\Display_ELBW\Display_ELBW\bin\Debug\Display_ELBW.exe
+D:\VB.NET\Display_ELBW\Display_ELBW\bin\Debug\Display_ELBW.pdb
+D:\VB.NET\Display_ELBW\Display_ELBW\bin\Debug\Display_ELBW.xml
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Debug\Display_ELBW.exe
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Debug\Display_ELBW.xml
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Debug\Display_ELBW.pdb
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Debug\Display_ELBW.AboutPC_Display.resources
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Debug\Display_ELBW.frmRS232.resources
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Debug\Display_ELBW.frmSettingsCOM.resources
+D:\VB.NET\Display_ELBW\Display_ELBW\obj\Debug\Display_ELBW.COM_DATA.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Debug\Display_ELBW.exe
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Debug\Display_ELBW.xml
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Debug\Display_ELBW.pdb
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\bin\Debug\Display_ELBW.exe
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\bin\Debug\Display_ELBW.pdb
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\bin\Debug\Display_ELBW.xml
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Debug\ResolveAssemblyReference.cache
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Debug\Display_ELBW.AboutPC_Display.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Debug\Display_ELBW.frmDisplay.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Debug\Display_ELBW.frmSettingsCOM.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Debug\Display_ELBW.Resources.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Debug\Display_ELBW.frmRS232.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Debug\Display_ELBW.SplashScreen.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Debug\Display_ELBW.vbproj.GenerateResource.Cache
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Debug\Display_ELBW.frmDump.resources
+D:\VB.NET\Display_ELBW_V1_1\Display_ELBW\obj\Debug\Display_ELBW.frmGraphics.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Debug\ResolveAssemblyReference.cache
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Debug\Display_ELBW.AboutPC_Display.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Debug\Display_ELBW.frmDump.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Debug\Display_ELBW.frmDisplay.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Debug\Display_ELBW.frmGraphics.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Debug\Display_ELBW.frmSettingsCOM.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Debug\Display_ELBW.Resources.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Debug\Display_ELBW.frmRS232.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Debug\Display_ELBW.SplashScreen.resources
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Debug\Display_ELBW.vbproj.GenerateResource.Cache
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\bin\Debug\Display Weather Station ELBW.exe.manifest
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\bin\Debug\Display Weather Station ELBW.application
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\bin\Debug\Display Weather Station ELBW.exe
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\bin\Debug\Display Weather Station ELBW.pdb
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\bin\Debug\Display Weather Station ELBW.xml
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Debug\Display Weather Station ELBW.exe.manifest
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Debug\Display Weather Station ELBW.application
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Debug\Display Weather Station ELBW.exe
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Debug\Display Weather Station ELBW.xml
+D:\VB.NET\Display_ELBW_V1_3\Display_ELBW\obj\Debug\Display Weather Station ELBW.pdb
