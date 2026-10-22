@@ -19,3 +19,7 @@
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# Signing keys
+*.pfx
+*.snk
